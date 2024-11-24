@@ -1,13 +1,11 @@
 # first_project
 
-Analytics project
+#Nortwind SQL Queries
 
-#DVDRental SQL Queries
-
-This repository contains SQL queries on the **DVDRental** database. The aim is to demonstrate basic database query techniques in SQL.
+This repository contains SQL queries on the **Northwind** database. The aim is to demonstrate basic database query techniques in SQL.
 
 ## Databases Used
-1. **DVDRental**: Movie rental database designed for PostgreSQL.
+1. **Northwind**: The database contains customer, order, product and employee data of a wholesale company.
 
 ## Content
 - **CREATE TABLE and ALTER TABLE**: Creating and modifying tables.
